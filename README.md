@@ -5,104 +5,104 @@
 # Environment Setup Assignment
 
 # Dart & Flutter
-1) What is the first step for installing Dart on a Windows machine?
+## What is the first step for installing Dart on a Windows machine?
 
 A) Install Homebrew
 B) Download the Dart SDK
 C) Update your PATH
 D) Run Dart Doctor
-**Answer:**  
-**B) Download the Dart SDK**  
+ 
+**Answer: B) Download the Dart SDK**  
 The first step for installing Dart on a Windows machine is to download the Dart SDK from the official Dart website.
 
 
-2) Which command verifies the Dart installation on macOS?
+## Which command verifies the Dart installation on macOS?
 
 A) dart --install
 B) dart --check
 C) dart --verify
 D) dart --version
-**Answer:**  
-**D) dart --version**  
+
+**Answer: D) dart --version**  
 This command checks and displays the installed version of Dart, confirming that the installation was successful.
 
 
-3) What is the next step after downloading and extracting the Flutter SDK on Linux?
+## What is the next step after downloading and extracting the Flutter SDK on Linux?
 
 A) Install Homebrew
 B) Update your PATH
 C) Run Flutter Doctor
 D) Create a new Flutter project
-**Answer:**  
-**B) Update your PATH**  
+ 
+**Answer: B) Update your PATH**  
 After downloading and extracting Flutter, the next step is to update the system's PATH environment variable so that you can run Flutter commands from any directory.
 
 
-4) What command is used to run a newly created Flutter app?
+## What command is used to run a newly created Flutter app?
 
 A) flutter start
 B) flutter build
 C) flutter run
 D) flutter init
-**Answer:**  
-**C) flutter run**  
+
+**Answer: C) flutter run**  
 The `flutter run` command is used to start the Flutter app in a connected device or emulator.
 
 
 # Python Installation
 
-1) What is the first step to install Python on a Windows system?
+## What is the first step to install Python on a Windows system?
 
 A) Run the installer without any customization
 B) Download Python from the official website
 C) Open the terminal and type sudo apt install python
 D) Install pip manually
-**Answer:**  
-**B) Download Python from the official website**  
+
+**Answer: B) Download Python from the official website**  
 The first step in installing Python on Windows is to download the installer from the official Python website.
 
 
-2) Which option should you ensure is checked during Python installation on Windows?
+## Which option should you ensure is checked during Python installation on Windows?
 
 A) Install with default settings
 B) Install to a custom directory
 C) Add Python to PATH
 D) Install all available features
-**Answer:**  
-**C) Add Python to PATH**  
+ 
+**Answer: C) Add Python to PATH**  
 Ensuring that "Add Python to PATH" is checked during installation makes it easier to run Python from the command line without needing to manually add it later.
 
 
-3) How do you verify Python installation on any system?
+## How do you verify Python installation on any system?
 
 A) By running python --version
 B) By restarting your computer
 C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
-**Answer:**  
-**A) By running python --version**  
+
+**Answer: A) By running python --version**  
 This command checks if Python is installed and shows the current version.
 
 
-4) What command is used to install pip on macOS and Linux?
+## What command is used to install pip on macOS and Linux?
 
 A) sudo install pip
 B) pip install python
 C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 D) python --install pip
-**Answer:**  
-**C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py**  
+
+**Answer: C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py**  
 This command downloads the get-pip.py script, which is then executed to install `pip`.
 
 
-5) What is the purpose of a virtual environment in Python?
+## What is the purpose of a virtual environment in Python?
 
 A) To keep your projects organized in one folder
 B) To install Python in a different directory
 C) To separate project dependencies and avoid conflicts
 D) To enhance Python performance on your system
-**Answer:**  
-**C) To separate project dependencies and avoid conflicts**  
+
+**Answer: C) To separate project dependencies and avoid conflicts**  
 Virtual environments help isolate dependencies for different projects, ensuring that there are no conflicts between libraries across projects.
 
 
