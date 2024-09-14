@@ -108,7 +108,7 @@ Virtual environments help isolate dependencies for different projects, ensuring 
 
 # MySQL Installation
 
-1) What is the first step to install MySQL on Windows?
+## What is the first step to install MySQL on Windows?
 
 A) Download MySQL Shell
 B) Download MySQL Installer from the official website
@@ -119,7 +119,7 @@ D) Set up a root password
 The MySQL Installer simplifies the setup process and provides a single tool for installing MySQL and related components.
 
 
-2) What setup type should you choose for a custom MySQL installation?
+## What setup type should you choose for a custom MySQL installation?
 
 A) Developer Default
 B) Server Only
@@ -130,7 +130,7 @@ D) Custom
 Choosing "Custom" allows you to select the specific MySQL products and features to install.
 
 
-3) Which products should you select during the MySQL installation?
+## Which products should you select during the MySQL installation?
 
 A) MySQL Server, MySQL Workbench, and MySQL Shell
 B) Only MySQL Server
@@ -141,7 +141,7 @@ D) MySQL Workbench and MySQL Utilities
 These tools are essential for managing, interacting with, and administering MySQL databases.
 
 
-4) What is the purpose of setting a root password during MySQL installation?
+## What is the purpose of setting a root password during MySQL installation?
 
 A) To create a user account for your MySQL server
 B) To secure your MySQL installation with a super-secret password
@@ -152,7 +152,7 @@ D) To allow multiple users to access MySQL
 Setting a root password ensures that the MySQL server is secured and access is restricted to authorized users.
 
 
-5) How do you begin managing your database after installing MySQL?
+## How do you begin managing your database after installing MySQL?
 
 A) Start by installing additional plugins
 B) Launch MySQL Workbench and connect to your MySQL Server
